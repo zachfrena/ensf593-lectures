@@ -23,7 +23,7 @@ See Fig 1.1 (p. 25) for an overview of the design process.
 
 Steps:
 - What is: Object, class and UML (Section 3.2 in lecture notes, Fig 9 on page 14)
-- Recreate Riddle UML Fig 1.3 on p. 29 with plantuml
+- Recreate Riddle UML Fig 1.3 on p. 29 with [plantuml](https://plantuml.com/class-diagram)
 - Implement Riddle.java from UML
 - Implement a RiddleTester.java with `main()`.
 
