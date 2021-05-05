@@ -1,0 +1,9 @@
+@startuml
+class Riddle [[java:Riddle]] {
+	-question: String
+	-answer: String
+	+Riddle(q: String, a: String)
+	+getQuestion(): String
+	+getAnswer(): String
+}
+@enduml
