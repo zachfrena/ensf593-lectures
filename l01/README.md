@@ -8,7 +8,13 @@
 
 Go from Wikipedia Hello World https://en.wikipedia.org/wiki/Java_(programming_language)#Hello_world_example 
 
-to Hello World in Section 1.4 (Fig. 1.5)
+to Hello World in Section 1.4 (Fig. 1.5).
+
+Compile and run (see Fig on p. 49):
+
+`javac -sourcepath src/ -d bin/ src/HelloWorld.java`
+
+`java -cp bin/ HelloWorld`
 
 ## Riddle
 Following section 1.3 to design a Riddle program. 
