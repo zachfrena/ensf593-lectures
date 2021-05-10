@@ -6,10 +6,8 @@ public class RiddleTester {
 		
 		Riddle r = new Riddle("Why?", "Because.");
 		
-		System.out.println("The question: "+r.getQuestion());
-		System.out.println("The answer: "+r.getAnswer());
-		
-
+		System.out.println("The question: " + r.getQuestion());
+		System.out.println("The answer: " + r.getAnswer());
 	}
 
 }

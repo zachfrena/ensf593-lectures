@@ -1,12 +1,11 @@
 
-public class HelloWorld extends Object{
-
-	private String greeting = "Hello World";
+public class HelloWorld {
+	
+	private String greeting = "Hello World!";
 	
 	public void greet() {
 		
 		System.out.println(this.greeting);
-		
 		
 	}
 	
@@ -15,7 +14,7 @@ public class HelloWorld extends Object{
 		HelloWorld helloworld;
 		helloworld = new HelloWorld();
 		helloworld.greet();
-
+		
 	}
 
 }
