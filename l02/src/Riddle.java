@@ -28,6 +28,7 @@ public class Riddle {
 		this.answer = a;
 	}
 	
+
 	/**
 	 * @return the question
 	 */

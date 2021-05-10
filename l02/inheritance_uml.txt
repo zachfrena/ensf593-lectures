@@ -1,0 +1,4 @@
+@startuml
+Object <|-- Rectangle
+Rectangle <|-- Square
+@enduml
